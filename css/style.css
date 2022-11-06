@@ -396,7 +396,7 @@ header .menu .menu-links li a:hover {
 }
 .projects .box .text {
     position: absolute;
-    bottom: -82px;
+    bottom: -85px;
     padding: 20px;
     backdrop-filter: blur(5px);
     width: 100%;
