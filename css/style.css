@@ -596,7 +596,6 @@ header .menu .menu-links li a:hover {
 /* End Contact */
 /* Start Footer */
 footer {
-    margin: -1px;
     background: #000;
     position: relative;
 }
